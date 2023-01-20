@@ -1,0 +1,10 @@
+import React from 'react';
+import './index.css';
+
+const Stories = () => {
+    return (
+        <h1>Stories</h1>
+    );
+};
+
+export default Stories;
