@@ -103,6 +103,10 @@ p {
 .left-box{
     flex-basis: 50%;
 }
+h3 {
+    font-size:15px;
+    color: yellow;
+}
 
 .box-content img{
     width: 300px;

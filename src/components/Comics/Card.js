@@ -12,7 +12,7 @@ export const Card = ({ data }) => {
               <div className="card" key={item.id}>
                 <img src={`${item.thumbnail.path}.${item.thumbnail.extension}`} alt="" />
                 <div className="title">
-                  <h3>{item.name}</h3>
+                  <h3>Limted Addtion Toys</h3>
                   <p>Action Figure from the Pop Culture Landscape</p>
                   <div className = "cart">
                   <FontAwesomeIcon icon={faShoppingCart} />
