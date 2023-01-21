@@ -17,6 +17,15 @@ p {
     text-align: center;
     margin-top: 15px;
 }
+
+.heading {
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size:50px;
+    font-weight: 800;
+    color:rgb(233, 103, 142);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .cart {
     width: 100%;
     align-items: center;

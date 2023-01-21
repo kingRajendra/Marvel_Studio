@@ -1,8 +1,3 @@
-h1 {
-    font-size: large;
-    color: blue;
-}
-
 p {
     font-size: xx-small;
     color: white;
@@ -28,6 +23,15 @@ p {
     border:2px solid black;
     box-shadow: 0 5px 5px 5px rgba(255,255,255,0.2);
     transition: 0.5s;
+}
+
+.heading {
+    margin-left: 350px;
+    margin-top: 50px;
+    font-size:50px;
+    font-weight: 800;
+    color:rgb(233, 103, 142);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .content{
     width: 80%;

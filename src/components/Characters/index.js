@@ -17,7 +17,8 @@ export const Characters = () => {
   
 return (
     <>
-       <div className="content">       
+       <h1 className="heading">Characters</h1>
+       <div className="content">
           <Card data={item}/>
        </div>
     </>

@@ -19,6 +19,7 @@ const Stories= () => {
   
 return (
     <>
+        <h1 className="heading">Stories</h1>
        <div className="content">       
           <Card data={item}/>
        </div>
